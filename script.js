@@ -1,3 +1,5 @@
+//Genesys Assignment
+
 //1. Create a function that will be able to convert figures from Fahrenheit to Celsius
 
  const ferToCel = (f) => {
